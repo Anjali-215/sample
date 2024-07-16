@@ -46,7 +46,7 @@ print(list(range(25,30,2)))''
 
 
 for i in range(10):
-    print(i)'''
+    print(i)
 
 oddnum=list(range(1,50,2))
 print(oddnum)
@@ -61,7 +61,12 @@ for i in 'sunshine':
 
 #print prgm to print factors of a number
 
-x=int(input("enter the number:"))
-for i in range(1,x+1):
-    if(x%i==0):
-        print(i)
+x=int(input("enter num "))
+for j in range(1,x+1):
+    if(x %j == 0):
+        print(j)'''
+
+
+
+dict={1:'name',2:'rollno'}
+print(dict[1])

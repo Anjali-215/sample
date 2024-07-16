@@ -110,8 +110,11 @@ s3=(s1**2+s2)**0.5
 print("length of side c is",s3)'''
 
 
-'''a=float(input("enter the euro to inr amt"))
+
+
+
+a=float(input("enter the euro to inr amt"))
 euro=float((input("enter the amt")))
 inr=euro*a
-print(inr)'''
+print(inr)
 
